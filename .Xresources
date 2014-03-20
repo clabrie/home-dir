@@ -1,0 +1,4 @@
+URxvt.depth: 32
+URxvt.background: #333333
+URxvt.foreground: #CCCCCC
+URxvt.scrollBar: false
