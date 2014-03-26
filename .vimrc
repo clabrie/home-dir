@@ -7,7 +7,7 @@ set tabstop=4
 execute pathogen#infect()
 
 syntax on
-color ron
+color slate
 
 filetype plugin on
 filetype indent on
